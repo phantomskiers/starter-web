@@ -9,9 +9,12 @@ of the Git repository and various commands using a web project.
 
 ## Purpose
 
-Sample website with plenty of files for demos.
+Sample website with plenty of files for demos.  Contains
+lorem text file.
 
 ## Deployment
+
+This is a simple web project, deployoment can be on any web server.
 
 ## How To Contribute
 
