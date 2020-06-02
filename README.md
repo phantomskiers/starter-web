@@ -23,4 +23,4 @@ This is a simple web project, deployoment can be on any web server.
 Please fork this repository and then issue Pull Requests for review.
 
 ### Copyright
-TP
+TP All rights reserved.
